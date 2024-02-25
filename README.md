@@ -14,3 +14,13 @@
     </div>
 </div>
 
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <div style="flex: 25%; padding: 10px;">
+    <img src="./image/DimCustomer.png" style="width: 300px; height: 200px; border: 1px solid black;">
+  </div>
+  <div style="flex: 25%; padding: 10px;">
+    <img src="./image/DimProduct.png" style="width: 300px; height: 200px; border: 1px solid black;">
+  </div>
+</div>
+
+
