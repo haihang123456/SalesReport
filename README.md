@@ -12,6 +12,9 @@
 ![DimDate](./image/modeView.png)
 
 3.Report DashBoard
+3.1 OverView
 ![DimDate](./image/Overview.png)
+
+3.2 Product Deatail
 ![DimDate](./image/Product.png)
 
