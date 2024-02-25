@@ -14,14 +14,12 @@ WHERE
   CalendarYear > 2010 AND CalendarYear < 2014;
 
 -- Cleansed DIM_Customers Table --
-SELECT * from [dbo].[DimCustomer]
---lay CustomerKey, FirstName + LastName = FullName, Gender, DateFirstPurchase
+-- SELECT * from [dbo].[DimCustomer]
 SELECT c.CustomerKey as CustomerKey,
 c.FirstName + c.Lastname as [Full name],
 case c.Gender WHEN 'M' then 'Male' WHEN 'F' THEN 'Feamle' end as Gender,
 c.DateFirstPurchase as [Date FirstPurchase],
 c.BirthDate,
---join voi bang Geopraphy de lay them thong tin ve thanh pho khach hang 
 g.city as [Customer City]
 FROM
 dbo.DimCustomer as c LEFT JOIN dbo.DimGeography as g on c.geographykey = g.geographykey
