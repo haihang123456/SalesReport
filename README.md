@@ -1,26 +1,12 @@
 1.Dùng bộ data AdventureWorkWD2019, dùng SQL lấy 4 table và một số cột cần thiết
 <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 25%; padding: 5px;">
-        <img src="./image/DimCustomer.png" style="width: 50%;">
+        <img src="./image/1.png" style="width: 50%;">
     </div>
     <div style="flex: 25%; padding: 5px;">
-        <img src="./image/DimProduct.png" style="width: 50%;">
-    </div>
-    <div style="flex: 25%; padding: 5px;">
-        <img src="./image/DimDate.png" style="width: 50%;">
-    </div>
-    <div style="flex: 25%; padding: 5px;">
-        <img src="./image/FactinternetSales.png" style="width: 50%;">
+        <img src="./image/2.png" style="width: 50%;">
     </div>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <div style="flex: 25%; padding: 10px;">
-    <img src="./image/DimCustomer.png" style="width: 300px; height: 200px; border: 1px solid black;">
-  </div>
-  <div style="flex: 25%; padding: 10px;">
-    <img src="./image/DimProduct.png" style="width: 300px; height: 200px; border: 1px solid black;">
-  </div>
-</div>
 
 
