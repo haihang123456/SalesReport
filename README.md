@@ -8,5 +8,6 @@
     </div>
 </div>
 
-
+2. Import các file vào PowerBi, DataModel:
+![DimDate](./image/modeView.png)
 
