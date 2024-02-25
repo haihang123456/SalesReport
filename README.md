@@ -9,6 +9,6 @@
         <img src="./image/DimDate.png" style="width: 100%;">
     </div>
     <div style="flex: 25%; padding: 5px;">
-        <img src="./image/FactinternetSales.jpg" style="width: 100%;">
+        <img src="./image/FactinternetSales.png" style="width: 100%;">
     </div>
 </div>
