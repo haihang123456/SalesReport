@@ -11,3 +11,7 @@
 2. Import các file vào PowerBi, DataModel:
 ![DimDate](./image/modeView.png)
 
+3.Report DashBoard
+![DimDate](./image/Overview.png)
+![DimDate](./image/Product.png)
+
