@@ -1,0 +1,1 @@
+![DimCustomer](./image/DimCustomer.png)
