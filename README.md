@@ -11,10 +11,10 @@
 2. Import các file vào PowerBi, DataModel:
 ![DimDate](./image/modeView.png)
 
-3.Report DashBoard <td>
-3.1 OverView
+3.Report DashBoard <br>
+3.1 OverView <br>
 ![DimDate](./image/Overview.png)
-
-3.2 Product Deatail
+<br>
+3.2 Product Deatail <br>
 ![DimDate](./image/Product.png)
 
